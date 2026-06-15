@@ -123,4 +123,4 @@ In the worst case, all elements are stored in the HashMap.
 
 - Problem Number: 1
 - Problem Name: Two Sum
-- Difficulty: Easy
+- Difficulty: Easy3
