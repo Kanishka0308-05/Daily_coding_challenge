@@ -99,15 +99,4 @@ This folder contains Java solutions for the following LeetCode Two Pointers prob
 - Duplicate Handling
 - Optimization Techniques
 
----
-
-## Summary
-
-| Problem | Difficulty | Time Complexity | Space Complexity |
-|----------|------------|----------------|------------------|
-| Valid Palindrome | Easy | O(n) | O(1) |
-| Is Subsequence | Easy | O(n + m) | O(1) |
-| Two Sum II | Medium | O(n) | O(1) |
-| Container With Most Water | Medium | O(n) | O(1) |
-| 3Sum | Medium | O(n²) | O(1)* |
 
